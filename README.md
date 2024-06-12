@@ -56,7 +56,7 @@ ClipのInspectorには以下の変数が存在します。(一部変数は現在
 ![image](https://github.com/hiragiyayoi/TalkingTimelineTrack/assets/84854644/aca753c0-c181-44b4-b0ae-1199706491b5)
 
 - Text Appeearance Interval：文字をタイプライター風に表示します。表示する最大文字数を増やすフレームの間隔を指定します。
-例：3の場合、3フレームに１回最大表示文字数が増加する。
+例：3の場合、3フレームに１回最大表示文字数が増加する。0の場合にはクリップ再生直後に指定したすべてのテキストを表示する。
 - Name Text：Trackで指定しているキャラ名をクリップ再生時にのみ一時的に上書きする。
 - Conversation Content：字幕で表示する文字を入力します。表示する文字は[リッチテキスト](https://docs.unity3d.com/ja/2022.3/Manual/StyledText.html)を使用することで装飾できます。
 

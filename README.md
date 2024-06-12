@@ -22,7 +22,7 @@ Unityのノベルゲーム向けのカスタムトラックのライブラリを
 1. [Releases](https://github.com/hiragiyayoi/TalkingTimelineTrack/releases)より最新のUnityPackagesをダウンロードする．
 2. Asset > Import Pakages > Custom Pakege より1のパッケージをインポートする．
 4. UnityEditorを再起動する．
-5. AssetフォルダにYalkingTrackフォルダが生成されていることを確認する．
+5. AssetフォルダにTalkingTrackフォルダが生成されていることを確認する．
 
 
 ## 使い方

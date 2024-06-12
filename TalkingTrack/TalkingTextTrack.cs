@@ -4,8 +4,6 @@ using UnityEngine;
 using UnityEngine.Timeline;
 using UnityEditor;
 using UnityEngine.Playables;
-using Alchemy;
-using Alchemy.Inspector;
 
 namespace Menu.Runtime.TalkingTrack
 {
